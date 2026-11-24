@@ -1,0 +1,2 @@
+# Collaboration
+Read CLAUDE.md and docs first. Inspect current Git state. Work in scoped branches, avoid simultaneous edits to the same files, respect existing decisions, use reviewed PRs, no force pushes. Document exact sources and licenses, tests and limitations. Update docs/HANDOFF.md after each session. Never commit secrets or customer data. Do not provision or publish without owner approval. Reusable improvements may be proposed separately to master-skill-set; no automatic upstream writes.
