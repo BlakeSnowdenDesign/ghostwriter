@@ -1,0 +1,2 @@
+# Development handoff
+Planning baseline only. No runtime implementation, deployment, payment or integration tests yet. Repository initialized with consolidated product strategy and technical requirements. Next: inspect current Git state, master skill library and official Wix docs; verify target site and identity/commerce integration; write ADRs; establish monorepo and implement first vertical slice. Record test results and actual costs. Do not claim functionality that has not been built.
